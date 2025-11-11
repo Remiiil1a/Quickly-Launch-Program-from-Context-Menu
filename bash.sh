@@ -1,0 +1,1 @@
+g++ -o desktop_context_menu.exe desktop_context_menu.cpp -lshell32 -lcomctl32 -lcomdlg32 -lshlwapi -mwindows -O2
