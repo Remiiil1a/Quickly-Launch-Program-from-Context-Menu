@@ -1,4 +1,4 @@
-# Quickly-Launch-Program-from-Context-Menu / 从上下文菜单快速启动程序
+# Quickly-Launch-Program-from-Context-Menu / 从右键菜单快速启动程序
 
 ## Language Select / 语言选择 
 
